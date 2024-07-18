@@ -1,15 +1,7 @@
-<html>
-  <head>
-    <title>
-      Yashrajsinh Chavada
-    </title>
-  </head>
-      <body>
-        <h1>
-          Welcome to my world
-        </h1>
-        <p>
-          Explore new things by connecting us
-        </p>
-      </body>
-</html>
+console.log("Loops for interval");
+const arr = [1 , 2 , 3]
+// console.log(arr)
+
+for(const num of arr){
+    console.log(num)
+}
